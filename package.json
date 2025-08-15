@@ -1,0 +1,20 @@
+{
+  "name": "chatdpt-react-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.68",
+    "@langchain/groq": "^0.2.3",
+    "@langchain/langgraph": "^0.4.3",
+    "@langchain/tavily": "^0.1.5",
+    "zod": "^3.25.76"
+  }
+}
